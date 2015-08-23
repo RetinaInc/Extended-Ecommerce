@@ -34,6 +34,7 @@ public class ShoppingCartItem {
         double amount;
         
         //amount = (this.getQuantity() * product.getPrice().doubleValue());
+        //double incase it is not not float
         amount = (this.getQuantity() * product.getPrice());
         return amount;
     }
