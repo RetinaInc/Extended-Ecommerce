@@ -1,2 +1,2 @@
 # Extended-Ecommerce
-This Ecommerce Java project will be redeveloped using Spring Framework 
+This Ecommerce was built on top of a simple Core Java and servlet based framework. This project will be redeveloped using Spring Framework. Stay tuned.
