@@ -1,2 +1,2 @@
 # Extended-Ecommerce
-Extended Netbeans Ecommerce with real world features that are lacking in original tutorial.
+This Ecommerce Java project will be redeveloped using Spring Framework 
